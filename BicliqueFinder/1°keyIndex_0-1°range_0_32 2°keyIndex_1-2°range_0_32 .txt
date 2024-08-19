@@ -1,0 +1,2496 @@
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.42} = 2^{126.42}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 41
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|f0,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|0f,00,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,f0,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,0f,00,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,f0,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,0f,00|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,f0|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,0f,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,0f|00,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|f0,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|0f,00,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,f0|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,f0,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,00,0f|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [f0,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [0f,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,0f,00,00]
+	key : 1, 2
+	keyDiff : [00,00,00,f0|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,f0,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,0f,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,f0,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,0f|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,0f,00]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,00,f0,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,0f,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|f0,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,f0]
+	key : 1, 2
+	keyDiff : [00,00,00,00|0f,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,f0,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,0f,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}
+Biclique{
+	deltas :
+	key : 0, 1
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0f]
+	key : 1, 2
+	keyDiff : [00,00,00,00|00,f0,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	
+	time complexity : TimeComplexity = 2^{120} * 2^{6.51} = 2^{126.51}
+	data complexity : DataComplexity = 2^{0}
+	Total #Sboxes : 45
+}

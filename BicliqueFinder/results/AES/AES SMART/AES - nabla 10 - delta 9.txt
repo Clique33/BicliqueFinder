@@ -1,0 +1,1014 @@
+ant -f C:\\Users\\Frog33\\Documents\\NetBeansProjects\\janus\\SerpentAttacks -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\Frog33\Documents\NetBeansProjects\janus\SerpentAttacks\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\Frog33\Documents\NetBeansProjects\janus\SerpentAttacks\build\built-jar.properties
+Compiling 1 source file to C:\Users\Frog33\Documents\NetBeansProjects\janus\SerpentAttacks\build\classes
+compile:
+run:
+Choose a test option:
+1 - Finds all possible bicliques where there is only
+one active word for \Delta^K and one for \nabla^K, and the
+active word of \Delta^K must be form subkey K^{31}.
+(Can take a couple of hours to finish)
+0 - Exit the program.
+1
+Quantas threads para realizar o teste?
+4
+Quantas chaves serão testadas?
+1
+Qual a primeira chave?
+9
+begin: 9 end: 10 internalBegin: 0 internalEnd: 3
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [0, 1]
+begin: 9 end: 10 internalBegin: 6 internalEnd: 9
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [9, 10]
+begin: 9 end: 10 internalBegin: 3 internalEnd: 6
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [12, 13]
+begin: 9 end: 10 internalBegin: 9 internalEnd: 12
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [6, 7]
+Not finished. 1 minutes have passed
+Not finished. 2 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [9, 10]
+Not finished. 3 minutes have passed
+Not finished. 4 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [0, 1]
+Not finished. 5 minutes have passed
+Not finished. 6 minutes have passed
+Not finished. 7 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [6, 7]
+Not finished. 8 minutes have passed
+Not finished. 9 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [6, 7]
+Not finished. 10 minutes have passed
+Not finished. 11 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [6, 7]
+Not finished. 12 minutes have passed
+Not finished. 13 minutes have passed
+Not finished. 14 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [6, 7]
+Not finished. 15 minutes have passed
+Not finished. 16 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [6, 7]
+Not finished. 17 minutes have passed
+Not finished. 18 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [6, 7]
+Not finished. 19 minutes have passed
+Not finished. 20 minutes have passed
+Not finished. 21 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [6, 7]
+Not finished. 22 minutes have passed
+Not finished. 23 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [6, 7]
+Not finished. 24 minutes have passed
+Not finished. 25 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [6, 7]
+Not finished. 26 minutes have passed
+Not finished. 27 minutes have passed
+Not finished. 28 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [6, 7]
+Not finished. 29 minutes have passed
+Not finished. 30 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [6, 7]
+Not finished. 31 minutes have passed
+Not finished. 32 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [0, 1]
+Not finished. 33 minutes have passed
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [9, 10]
+Not finished. 34 minutes have passed
+Not finished. 35 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [6, 7]
+Not finished. 36 minutes have passed
+Not finished. 37 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [9, 10]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [6, 7]
+Not finished. 38 minutes have passed
+Not finished. 39 minutes have passed
+Not finished. 40 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [9, 10]
+Not finished. 41 minutes have passed
+Not finished. 42 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [9, 10]
+Not finished. 43 minutes have passed
+Not finished. 44 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [9, 10]
+Not finished. 45 minutes have passed
+Not finished. 46 minutes have passed
+Not finished. 47 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [9, 10]
+Not finished. 48 minutes have passed
+Not finished. 49 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [6, 7]
+Attack ( delta : {key = 9 words : [2, 3]} nabla : {key = 10 words : [9, 10]})
+time complexity : C_attack ~ 2^{126.5203455838178}
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [9, 10]
+Not finished. 50 minutes have passed
+Not finished. 51 minutes have passed
+Attack ( delta : {key = 9 words : [6, 7]} nabla : {key = 10 words : [12, 13]})
+time complexity : C_attack ~ 2^{126.39429328069973}
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [9, 10]
+Not finished. 52 minutes have passed
+Not finished. 53 minutes have passed
+Not finished. 54 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [12, 13]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [0, 1]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [6, 7]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [9, 10]
+Not finished. 55 minutes have passed
+Not finished. 56 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [12, 14]
+Attack ( delta : {key = 9 words : [14, 15]} nabla : {key = 10 words : [0, 1]})
+time complexity : C_attack ~ 2^{126.39429328069973}
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [0, 2]
+id: 3 completion: 75.0
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [9, 11]
+Not finished. 57 minutes have passed
+Not finished. 58 minutes have passed
+Not finished. 59 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [9, 11]
+Not finished. 60 minutes have passed
+Not finished. 61 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [9, 11]
+Not finished. 62 minutes have passed
+Not finished. 63 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [9, 11]
+Not finished. 64 minutes have passed
+Not finished. 65 minutes have passed
+Not finished. 66 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [9, 11]
+Not finished. 67 minutes have passed
+Not finished. 68 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [9, 11]
+Not finished. 69 minutes have passed
+Not finished. 70 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [9, 11]
+Not finished. 71 minutes have passed
+Not finished. 72 minutes have passed
+Not finished. 73 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [9, 11]
+Not finished. 74 minutes have passed
+Not finished. 75 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [9, 11]
+Not finished. 76 minutes have passed
+Not finished. 77 minutes have passed
+Not finished. 78 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [9, 11]
+Not finished. 79 minutes have passed
+Not finished. 80 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [9, 11]
+Not finished. 81 minutes have passed
+Not finished. 82 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [10, 11]
+Not finished. 83 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [9, 11]
+Not finished. 84 minutes have passed
+Not finished. 85 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [9, 11]
+Not finished. 86 minutes have passed
+Not finished. 87 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [9, 11]
+Not finished. 88 minutes have passed
+Not finished. 89 minutes have passed
+Not finished. 90 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [9, 11]
+Not finished. 91 minutes have passed
+Not finished. 92 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [9, 11]
+Not finished. 93 minutes have passed
+Not finished. 94 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [12, 14]
+Not finished. 95 minutes have passed
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [9, 11]
+Not finished. 96 minutes have passed
+Not finished. 97 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [9, 11]
+Not finished. 98 minutes have passed
+Not finished. 99 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [9, 11]
+Not finished. 100 minutes have passed
+Not finished. 101 minutes have passed
+Not finished. 102 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [9, 11]
+Not finished. 103 minutes have passed
+Not finished. 104 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [9, 11]
+Not finished. 105 minutes have passed
+Not finished. 106 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [0, 2]
+Not finished. 107 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [9, 11]
+Not finished. 108 minutes have passed
+Not finished. 109 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [9, 11]
+Not finished. 110 minutes have passed
+Not finished. 111 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [0, 2]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [12, 14]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [10, 11]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [9, 11]
+Not finished. 112 minutes have passed
+Not finished. 113 minutes have passed
+Not finished. 114 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [12, 15]
+id: 3 completion: 83.33333333333333
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [14, 15]
+id: 2 completion: 50.0
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [13, 14]
+Not finished. 115 minutes have passed
+Not finished. 116 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [13, 14]
+Not finished. 117 minutes have passed
+Not finished. 118 minutes have passed
+Not finished. 119 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [13, 14]
+Not finished. 120 minutes have passed
+Not finished. 121 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [13, 14]
+Not finished. 122 minutes have passed
+Not finished. 123 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [13, 14]
+Not finished. 124 minutes have passed
+Not finished. 125 minutes have passed
+Not finished. 126 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [13, 14]
+Not finished. 127 minutes have passed
+Not finished. 128 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [13, 14]
+Not finished. 129 minutes have passed
+Not finished. 130 minutes have passed
+Not finished. 131 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [13, 14]
+Not finished. 132 minutes have passed
+Not finished. 133 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [13, 14]
+Not finished. 134 minutes have passed
+Not finished. 135 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [13, 14]
+Not finished. 136 minutes have passed
+Not finished. 137 minutes have passed
+Not finished. 138 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [13, 14]
+Not finished. 139 minutes have passed
+Not finished. 140 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [13, 14]
+Not finished. 141 minutes have passed
+Not finished. 142 minutes have passed
+Not finished. 143 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [13, 14]
+Not finished. 144 minutes have passed
+Not finished. 145 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [13, 14]
+Not finished. 146 minutes have passed
+Not finished. 147 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [12, 15]
+Not finished. 148 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [13, 14]
+Not finished. 149 minutes have passed
+Not finished. 150 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [13, 14]
+Not finished. 151 minutes have passed
+Not finished. 152 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [13, 14]
+Not finished. 153 minutes have passed
+Not finished. 154 minutes have passed
+Not finished. 155 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [13, 14]
+Not finished. 156 minutes have passed
+Not finished. 157 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [13, 14]
+Not finished. 158 minutes have passed
+Not finished. 159 minutes have passed
+Not finished. 160 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [13, 14]
+Not finished. 161 minutes have passed
+Not finished. 162 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [13, 14]
+Not finished. 163 minutes have passed
+Not finished. 164 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [13, 14]
+Not finished. 165 minutes have passed
+Not finished. 166 minutes have passed
+Not finished. 167 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [0, 3]
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [13, 14]
+Not finished. 168 minutes have passed
+Not finished. 169 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [12, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [0, 3]
+Attack ( delta : {key = 9 words : [10, 11]} nabla : {key = 10 words : [14, 15]})
+time complexity : C_attack ~ 2^{126.41608175449579}
+cipher1 : cifra.AES@aaf8f6, cipher2 : cifra.AES@e6d0693, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [14, 15]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [13, 14]
+Not finished. 170 minutes have passed
+Not finished. 171 minutes have passed
+Not finished. 172 minutes have passed
+id: 1 completion: 25.0
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [1, 2]
+id: 0 completion: 0.0
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [4, 5]
+id: 3 completion: 91.66666666666667
+id: 3 partials  : 1
+FINISHED id: 3
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [13, 15]
+Not finished. 173 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [1, 2]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [13, 15]
+Not finished. 174 minutes have passed
+Not finished. 175 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [1, 2]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [13, 15]
+Not finished. 176 minutes have passed
+Not finished. 177 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [1, 2]
+Not finished. 178 minutes have passed
+Not finished. 179 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [1, 2]
+Not finished. 180 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [4, 5]
+Not finished. 181 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [1, 2]
+Not finished. 182 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [1, 2]
+Not finished. 183 minutes have passed
+Not finished. 184 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [1, 2]
+Not finished. 185 minutes have passed
+Not finished. 186 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [1, 2]
+Not finished. 187 minutes have passed
+Not finished. 188 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [1, 2]
+Not finished. 189 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [1, 2]
+Not finished. 190 minutes have passed
+Not finished. 191 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [1, 2]
+Not finished. 192 minutes have passed
+Not finished. 193 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [1, 2]
+Not finished. 194 minutes have passed
+Not finished. 195 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [1, 2]
+Not finished. 196 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [1, 2]
+Not finished. 197 minutes have passed
+Not finished. 198 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [1, 2]
+Not finished. 199 minutes have passed
+Not finished. 200 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [1, 2]
+Not finished. 201 minutes have passed
+Not finished. 202 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [1, 2]
+Not finished. 203 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [4, 5]
+Not finished. 204 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [1, 2]
+Not finished. 205 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [1, 2]
+Not finished. 206 minutes have passed
+Not finished. 207 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [1, 2]
+Not finished. 208 minutes have passed
+Not finished. 209 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [1, 2]
+Not finished. 210 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [4, 5]
+Not finished. 211 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [1, 2]
+Not finished. 212 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [13, 15]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [4, 5]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [1, 2]
+Not finished. 213 minutes have passed
+Not finished. 214 minutes have passed
+id: 2 completion: 58.333333333333336
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [2, 3]
+Attack ( delta : {key = 9 words : [14, 15]} nabla : {key = 10 words : [4, 5]})
+time complexity : C_attack ~ 2^{126.41608175449579}
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [1, 3]
+Not finished. 215 minutes have passed
+Not finished. 216 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [1, 3]
+Not finished. 217 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [2, 3]
+Not finished. 218 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [1, 3]
+Not finished. 219 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [4, 6]
+Not finished. 220 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [1, 3]
+Not finished. 221 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [1, 3]
+Not finished. 222 minutes have passed
+Not finished. 223 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [1, 3]
+Not finished. 224 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [2, 3]
+Not finished. 225 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [1, 3]
+Not finished. 226 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [4, 6]
+Not finished. 227 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [1, 3]
+Not finished. 228 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [1, 3]
+Not finished. 229 minutes have passed
+Not finished. 230 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [1, 3]
+Not finished. 231 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [2, 3]
+Not finished. 232 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [1, 3]
+Not finished. 233 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [4, 6]
+Not finished. 234 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [1, 3]
+Not finished. 235 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [1, 3]
+Not finished. 236 minutes have passed
+Not finished. 237 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [1, 3]
+Not finished. 238 minutes have passed
+Not finished. 239 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [1, 3]
+Not finished. 240 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [4, 6]
+Not finished. 241 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [1, 3]
+Not finished. 242 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [1, 3]
+Not finished. 243 minutes have passed
+Not finished. 244 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [1, 3]
+Not finished. 245 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [2, 3]
+Not finished. 246 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [1, 3]
+Not finished. 247 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [4, 6]
+Not finished. 248 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [1, 3]
+Not finished. 249 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [4, 6]
+Not finished. 250 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [1, 3]
+Not finished. 251 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [1, 3]
+Not finished. 252 minutes have passed
+Not finished. 253 minutes have passed
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [2, 3]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [1, 3]
+Not finished. 254 minutes have passed
+Attack ( delta : {key = 9 words : [10, 11]} nabla : {key = 10 words : [2, 3]})
+time complexity : C_attack ~ 2^{126.43754605506446}
+cipher1 : cifra.AES@7e46a481, cipher2 : cifra.AES@70815539, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [2, 3]
+Not finished. 255 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [4, 6]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [1, 3]
+Not finished. 256 minutes have passed
+id: 2 completion: 66.66666666666667
+id: 2 partials  : 1
+FINISHED id: 2
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [4, 7]
+id: 1 completion: 33.333333333333336
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [5, 6]
+Not finished. 257 minutes have passed
+Not finished. 258 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [5, 6]
+Not finished. 259 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [5, 6]
+Not finished. 260 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [5, 6]
+Not finished. 261 minutes have passed
+Not finished. 262 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [5, 6]
+Not finished. 263 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [5, 6]
+Not finished. 264 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [5, 6]
+Not finished. 265 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [4, 7]
+Not finished. 266 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [5, 6]
+Not finished. 267 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [5, 6]
+Not finished. 268 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [5, 6]
+Not finished. 269 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [4, 7]
+Not finished. 270 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [5, 6]
+Not finished. 271 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [5, 6]
+Not finished. 272 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [5, 6]
+Not finished. 273 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [4, 7]
+Not finished. 274 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [5, 6]
+Not finished. 275 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [5, 6]
+Not finished. 276 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [5, 6]
+Not finished. 277 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [4, 7]
+Not finished. 278 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [5, 6]
+Not finished. 279 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [5, 6]
+Not finished. 280 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [5, 6]
+Not finished. 281 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [4, 7]
+Not finished. 282 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [5, 6]
+Not finished. 283 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [5, 6]
+Not finished. 284 minutes have passed
+Attack ( delta : {key = 9 words : [2, 3]} nabla : {key = 10 words : [4, 7]})
+time complexity : C_attack ~ 2^{126.56002892873413}
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [5, 6]
+Not finished. 285 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [4, 7]
+Not finished. 286 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [5, 6]
+Not finished. 287 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [4, 7]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [5, 6]
+Not finished. 288 minutes have passed
+id: 0 completion: 8.333333333333334
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [5, 7]
+Not finished. 289 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [5, 7]
+Not finished. 290 minutes have passed
+Not finished. 291 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [5, 7]
+Not finished. 292 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [5, 7]
+Not finished. 293 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [5, 7]
+Not finished. 294 minutes have passed
+Not finished. 295 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [5, 7]
+Not finished. 296 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [5, 7]
+Not finished. 297 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [5, 7]
+Not finished. 298 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [8, 9]
+Not finished. 299 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [5, 7]
+Not finished. 300 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [5, 7]
+Not finished. 301 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [5, 7]
+Not finished. 302 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [8, 9]
+Not finished. 303 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [5, 7]
+Not finished. 304 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [5, 7]
+Not finished. 305 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [5, 7]
+Not finished. 306 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [8, 9]
+Not finished. 307 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [5, 7]
+Not finished. 308 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [5, 7]
+Not finished. 309 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [5, 7]
+Not finished. 310 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [8, 9]
+Not finished. 311 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [5, 7]
+Not finished. 312 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [5, 7]
+Not finished. 313 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [5, 7]
+Not finished. 314 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [8, 9]
+Not finished. 315 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [5, 7]
+Not finished. 316 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [5, 7]
+Not finished. 317 minutes have passed
+Attack ( delta : {key = 9 words : [6, 7]} nabla : {key = 10 words : [8, 9]})
+time complexity : C_attack ~ 2^{126.41608175449579}
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [8, 9]
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [5, 7]
+Not finished. 318 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [8, 9]
+Not finished. 319 minutes have passed
+cipher1 : cifra.AES@2df30b34, cipher2 : cifra.AES@2334f0fa, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [5, 7]
+Not finished. 320 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [8, 10]
+id: 1 completion: 41.666666666666664
+id: 1 partials  : 1
+FINISHED id: 1
+Not finished. 321 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [8, 10]
+Not finished. 322 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [8, 10]
+Not finished. 323 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [8, 10]
+Not finished. 324 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [8, 10]
+Not finished. 325 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [8, 10]
+Not finished. 326 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [8, 10]
+Not finished. 327 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [8, 10]
+Not finished. 328 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [8, 10]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [8, 10]
+Not finished. 329 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [8, 10]
+Not finished. 330 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [8, 10]
+Not finished. 331 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [8, 10]
+Not finished. 332 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [8, 10]
+Not finished. 333 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [8, 10]
+Not finished. 334 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [8, 10]
+Not finished. 335 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [8, 10]
+Not finished. 336 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [8, 10]
+Not finished. 337 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [8, 10]
+Not finished. 338 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [8, 10]
+Not finished. 339 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [8, 10]
+Not finished. 340 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [8, 10]
+Not finished. 341 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [8, 10]
+Not finished. 342 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [8, 10]
+Not finished. 343 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 1], initialWordsNabla : [8, 11]
+Not finished. 344 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 2], initialWordsNabla : [8, 11]
+Not finished. 345 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [0, 3], initialWordsNabla : [8, 11]
+Not finished. 346 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 5], initialWordsNabla : [8, 11]
+Not finished. 347 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 6], initialWordsNabla : [8, 11]
+Not finished. 348 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [4, 7], initialWordsNabla : [8, 11]
+Not finished. 349 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 9], initialWordsNabla : [8, 11]
+Not finished. 350 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 10], initialWordsNabla : [8, 11]
+Not finished. 351 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [8, 11], initialWordsNabla : [8, 11]
+Not finished. 352 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 13], initialWordsNabla : [8, 11]
+Not finished. 353 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 14], initialWordsNabla : [8, 11]
+Not finished. 354 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [12, 15], initialWordsNabla : [8, 11]
+Not finished. 355 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 2], initialWordsNabla : [8, 11]
+Not finished. 356 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [1, 3], initialWordsNabla : [8, 11]
+Not finished. 357 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 6], initialWordsNabla : [8, 11]
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [5, 7], initialWordsNabla : [8, 11]
+Not finished. 358 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 10], initialWordsNabla : [8, 11]
+Not finished. 359 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [9, 11], initialWordsNabla : [8, 11]
+Not finished. 360 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 14], initialWordsNabla : [8, 11]
+Not finished. 361 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [13, 15], initialWordsNabla : [8, 11]
+Not finished. 362 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [2, 3], initialWordsNabla : [8, 11]
+Not finished. 363 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [6, 7], initialWordsNabla : [8, 11]
+Not finished. 364 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [10, 11], initialWordsNabla : [8, 11]
+Not finished. 365 minutes have passed
+cipher1 : cifra.AES@74c6d4c8, cipher2 : cifra.AES@7a013420, roundDelta : 9, roundNabla : 10, initialWordsDelta : [14, 15], initialWordsNabla : [8, 11]
+Not finished. 366 minutes have passed
+id: 0 completion: 16.666666666666668
+id: 0 partials  : 1
+FINISHED id: 0
+
+[Attack ( delta : {key = 9 words : [14, 15]} nabla : {key = 10 words : [0, 1]})
+time complexity : C_attack ~ 2^{126.39429328069973}, Attack ( delta : {key = 9 words : [6, 7]} nabla : {key = 10 words : [12, 13]})
+time complexity : C_attack ~ 2^{126.39429328069973}, Attack ( delta : {key = 9 words : [14, 15]} nabla : {key = 10 words : [4, 5]})
+time complexity : C_attack ~ 2^{126.41608175449579}, Attack ( delta : {key = 9 words : [6, 7]} nabla : {key = 10 words : [8, 9]})
+time complexity : C_attack ~ 2^{126.41608175449579}, Attack ( delta : {key = 9 words : [10, 11]} nabla : {key = 10 words : [14, 15]})
+time complexity : C_attack ~ 2^{126.41608175449579}, Attack ( delta : {key = 9 words : [10, 11]} nabla : {key = 10 words : [2, 3]})
+time complexity : C_attack ~ 2^{126.43754605506446}, Attack ( delta : {key = 9 words : [2, 3]} nabla : {key = 10 words : [9, 10]})
+time complexity : C_attack ~ 2^{126.5203455838178}, Attack ( delta : {key = 9 words : [2, 3]} nabla : {key = 10 words : [4, 7]})
+time complexity : C_attack ~ 2^{126.56002892873413}]
+CONSTRUÍDO COM SUCESSO (tempo total: 367 minutos 8 segundos)

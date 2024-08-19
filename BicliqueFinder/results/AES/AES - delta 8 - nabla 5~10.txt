@@ -1,0 +1,635 @@
+run:
+Choose a test option:
+1 - Finds all possible bicliques where there is only
+one active word for \Delta^K and one for \nabla^K, and the
+active word of \Delta^K must be form subkey K^{31}.
+(Can take a couple of hours to finish)
+0 - Exit the program.
+1
+Quantas threads para realizar o teste?
+3
+Quantas chaves serão testadas?
+6
+Qual a primeira chave?
+5
+begin: 7 end: 9
+begin: 9 end: 11
+begin: 5 end: 7
+Not finished. 1 minutes have passed
+Not finished. 2 minutes have passed
+Not finished. 3 minutes have passed
+Not finished. 4 minutes have passed
+Not finished. 5 minutes have passed
+Not finished. 6 minutes have passed
+Not finished. 7 minutes have passed
+Not finished. 8 minutes have passed
+Not finished. 9 minutes have passed
+Not finished. 10 minutes have passed
+Not finished. 11 minutes have passed
+Not finished. 12 minutes have passed
+Not finished. 13 minutes have passed
+Not finished. 14 minutes have passed
+Not finished. 15 minutes have passed
+Not finished. 16 minutes have passed
+id: 0 completion: 0.0%
+id: 1 completion: 0.0%
+id: 2 completion: 0.0%
+Not finished. 17 minutes have passed
+Not finished. 18 minutes have passed
+Not finished. 19 minutes have passed
+Not finished. 20 minutes have passed
+Not finished. 21 minutes have passed
+Not finished. 22 minutes have passed
+Not finished. 23 minutes have passed
+Not finished. 24 minutes have passed
+Not finished. 25 minutes have passed
+Not finished. 26 minutes have passed
+Not finished. 27 minutes have passed
+Not finished. 28 minutes have passed
+Not finished. 29 minutes have passed
+Not finished. 30 minutes have passed
+Not finished. 31 minutes have passed
+id: 0 completion: 3.125%
+id: 1 completion: 3.125%
+id: 2 completion: 3.125%
+Not finished. 32 minutes have passed
+Not finished. 33 minutes have passed
+Not finished. 34 minutes have passed
+Not finished. 35 minutes have passed
+Not finished. 36 minutes have passed
+Not finished. 37 minutes have passed
+Not finished. 38 minutes have passed
+Not finished. 39 minutes have passed
+Not finished. 40 minutes have passed
+Not finished. 41 minutes have passed
+Not finished. 42 minutes have passed
+Not finished. 43 minutes have passed
+Not finished. 44 minutes have passed
+Not finished. 45 minutes have passed
+id: 0 completion: 6.25%
+id: 1 completion: 6.25%
+id: 2 completion: 6.25%
+Not finished. 46 minutes have passed
+Not finished. 47 minutes have passed
+Not finished. 48 minutes have passed
+Not finished. 49 minutes have passed
+Not finished. 50 minutes have passed
+Not finished. 51 minutes have passed
+Not finished. 52 minutes have passed
+Not finished. 53 minutes have passed
+Not finished. 54 minutes have passed
+Not finished. 55 minutes have passed
+Not finished. 56 minutes have passed
+Not finished. 57 minutes have passed
+Not finished. 58 minutes have passed
+Not finished. 59 minutes have passed
+id: 0 completion: 9.375%
+Not finished. 60 minutes have passed
+id: 1 completion: 9.375%
+id: 2 completion: 9.375%
+Not finished. 61 minutes have passed
+Not finished. 62 minutes have passed
+Not finished. 63 minutes have passed
+Not finished. 64 minutes have passed
+Not finished. 65 minutes have passed
+Not finished. 66 minutes have passed
+Not finished. 67 minutes have passed
+Not finished. 68 minutes have passed
+Not finished. 69 minutes have passed
+Not finished. 70 minutes have passed
+Not finished. 71 minutes have passed
+Not finished. 72 minutes have passed
+Not finished. 73 minutes have passed
+Not finished. 74 minutes have passed
+id: 0 completion: 12.5%
+id: 1 completion: 12.5%
+Not finished. 75 minutes have passed
+id: 2 completion: 12.5%
+Not finished. 76 minutes have passed
+Not finished. 77 minutes have passed
+Not finished. 78 minutes have passed
+Not finished. 79 minutes have passed
+Not finished. 80 minutes have passed
+Not finished. 81 minutes have passed
+Not finished. 82 minutes have passed
+Not finished. 83 minutes have passed
+Not finished. 84 minutes have passed
+Not finished. 85 minutes have passed
+Not finished. 86 minutes have passed
+Not finished. 87 minutes have passed
+Not finished. 88 minutes have passed
+id: 0 completion: 15.625%
+Not finished. 89 minutes have passed
+id: 1 completion: 15.625%
+id: 2 completion: 15.625%
+Not finished. 90 minutes have passed
+Not finished. 91 minutes have passed
+Not finished. 92 minutes have passed
+Not finished. 93 minutes have passed
+Not finished. 94 minutes have passed
+Not finished. 95 minutes have passed
+Not finished. 96 minutes have passed
+Not finished. 97 minutes have passed
+Not finished. 98 minutes have passed
+Not finished. 99 minutes have passed
+Not finished. 100 minutes have passed
+Not finished. 101 minutes have passed
+Not finished. 102 minutes have passed
+Not finished. 103 minutes have passed
+id: 0 completion: 18.75%
+id: 1 completion: 18.75%
+Not finished. 104 minutes have passed
+id: 2 completion: 18.75%
+Not finished. 105 minutes have passed
+Not finished. 106 minutes have passed
+Not finished. 107 minutes have passed
+Not finished. 108 minutes have passed
+Not finished. 109 minutes have passed
+Not finished. 110 minutes have passed
+Not finished. 111 minutes have passed
+Not finished. 112 minutes have passed
+Not finished. 113 minutes have passed
+Not finished. 114 minutes have passed
+Not finished. 115 minutes have passed
+Not finished. 116 minutes have passed
+Not finished. 117 minutes have passed
+id: 0 completion: 21.875%
+Not finished. 118 minutes have passed
+id: 1 completion: 21.875%
+Not finished. 119 minutes have passed
+id: 2 completion: 21.875%
+Not finished. 120 minutes have passed
+Not finished. 121 minutes have passed
+Not finished. 122 minutes have passed
+Not finished. 123 minutes have passed
+Not finished. 124 minutes have passed
+Not finished. 125 minutes have passed
+Not finished. 126 minutes have passed
+Not finished. 127 minutes have passed
+Not finished. 128 minutes have passed
+Not finished. 129 minutes have passed
+Not finished. 130 minutes have passed
+Not finished. 131 minutes have passed
+Not finished. 132 minutes have passed
+id: 0 completion: 25.0%
+id: 1 completion: 25.0%
+Not finished. 133 minutes have passed
+id: 2 completion: 25.0%
+Not finished. 134 minutes have passed
+Not finished. 135 minutes have passed
+Not finished. 136 minutes have passed
+Not finished. 137 minutes have passed
+Not finished. 138 minutes have passed
+Not finished. 139 minutes have passed
+Not finished. 140 minutes have passed
+Not finished. 141 minutes have passed
+Not finished. 142 minutes have passed
+Not finished. 143 minutes have passed
+Not finished. 144 minutes have passed
+Not finished. 145 minutes have passed
+Not finished. 146 minutes have passed
+id: 0 completion: 28.125%
+Not finished. 147 minutes have passed
+id: 1 completion: 28.125%
+Not finished. 148 minutes have passed
+id: 2 completion: 28.125%
+Not finished. 149 minutes have passed
+Not finished. 150 minutes have passed
+Not finished. 151 minutes have passed
+Not finished. 152 minutes have passed
+Not finished. 153 minutes have passed
+Not finished. 154 minutes have passed
+Not finished. 155 minutes have passed
+Not finished. 156 minutes have passed
+Not finished. 157 minutes have passed
+Not finished. 158 minutes have passed
+Not finished. 159 minutes have passed
+Not finished. 160 minutes have passed
+Not finished. 161 minutes have passed
+id: 0 completion: 31.25%
+Not finished. 162 minutes have passed
+id: 1 completion: 31.25%
+Not finished. 163 minutes have passed
+id: 2 completion: 31.25%
+Not finished. 164 minutes have passed
+Not finished. 165 minutes have passed
+Not finished. 166 minutes have passed
+Not finished. 167 minutes have passed
+Not finished. 168 minutes have passed
+Not finished. 169 minutes have passed
+Not finished. 170 minutes have passed
+Not finished. 171 minutes have passed
+Not finished. 172 minutes have passed
+Not finished. 173 minutes have passed
+Not finished. 174 minutes have passed
+Not finished. 175 minutes have passed
+id: 0 completion: 34.375%
+Not finished. 176 minutes have passed
+id: 1 completion: 34.375%
+Not finished. 177 minutes have passed
+id: 2 completion: 34.375%
+Not finished. 178 minutes have passed
+Not finished. 179 minutes have passed
+Not finished. 180 minutes have passed
+Not finished. 181 minutes have passed
+Not finished. 182 minutes have passed
+Not finished. 183 minutes have passed
+Not finished. 184 minutes have passed
+Not finished. 185 minutes have passed
+Not finished. 186 minutes have passed
+Not finished. 187 minutes have passed
+Not finished. 188 minutes have passed
+Not finished. 189 minutes have passed
+Not finished. 190 minutes have passed
+id: 0 completion: 37.5%
+Not finished. 191 minutes have passed
+id: 1 completion: 37.5%
+Not finished. 192 minutes have passed
+id: 2 completion: 37.5%
+Not finished. 193 minutes have passed
+Not finished. 194 minutes have passed
+Not finished. 195 minutes have passed
+Not finished. 196 minutes have passed
+Not finished. 197 minutes have passed
+Not finished. 198 minutes have passed
+Not finished. 199 minutes have passed
+Not finished. 200 minutes have passed
+Not finished. 201 minutes have passed
+Not finished. 202 minutes have passed
+Not finished. 203 minutes have passed
+Not finished. 204 minutes have passed
+id: 0 completion: 40.625%
+Not finished. 205 minutes have passed
+id: 1 completion: 40.625%
+Not finished. 206 minutes have passed
+id: 2 completion: 40.625%
+Not finished. 207 minutes have passed
+Not finished. 208 minutes have passed
+Not finished. 209 minutes have passed
+Not finished. 210 minutes have passed
+Not finished. 211 minutes have passed
+Not finished. 212 minutes have passed
+Not finished. 213 minutes have passed
+Not finished. 214 minutes have passed
+Not finished. 215 minutes have passed
+Not finished. 216 minutes have passed
+Not finished. 217 minutes have passed
+Not finished. 218 minutes have passed
+Not finished. 219 minutes have passed
+id: 0 completion: 43.75%
+Not finished. 220 minutes have passed
+id: 1 completion: 43.75%
+Not finished. 221 minutes have passed
+id: 2 completion: 43.75%
+Not finished. 222 minutes have passed
+Not finished. 223 minutes have passed
+Not finished. 224 minutes have passed
+Not finished. 225 minutes have passed
+Not finished. 226 minutes have passed
+Not finished. 227 minutes have passed
+Not finished. 228 minutes have passed
+Not finished. 229 minutes have passed
+Not finished. 230 minutes have passed
+Not finished. 231 minutes have passed
+Not finished. 232 minutes have passed
+Not finished. 233 minutes have passed
+id: 0 completion: 46.875%
+Not finished. 234 minutes have passed
+id: 1 completion: 46.875%
+Not finished. 235 minutes have passed
+id: 2 completion: 46.875%
+Not finished. 236 minutes have passed
+Not finished. 237 minutes have passed
+Not finished. 238 minutes have passed
+Not finished. 239 minutes have passed
+Not finished. 240 minutes have passed
+Not finished. 241 minutes have passed
+Not finished. 242 minutes have passed
+Not finished. 243 minutes have passed
+Not finished. 244 minutes have passed
+Not finished. 245 minutes have passed
+Not finished. 246 minutes have passed
+Not finished. 247 minutes have passed
+Not finished. 248 minutes have passed
+id: 0 completion: 50.0%
+Not finished. 249 minutes have passed
+id: 1 completion: 50.0%
+Not finished. 250 minutes have passed
+id: 2 completion: 50.0%
+Not finished. 251 minutes have passed
+Not finished. 252 minutes have passed
+Not finished. 253 minutes have passed
+Not finished. 254 minutes have passed
+Not finished. 255 minutes have passed
+Not finished. 256 minutes have passed
+Not finished. 257 minutes have passed
+Not finished. 258 minutes have passed
+Not finished. 259 minutes have passed
+Not finished. 260 minutes have passed
+Not finished. 261 minutes have passed
+Not finished. 262 minutes have passed
+id: 0 completion: 53.125%
+Not finished. 263 minutes have passed
+Not finished. 264 minutes have passed
+id: 1 completion: 53.125%
+Not finished. 265 minutes have passed
+id: 2 completion: 53.125%
+Not finished. 266 minutes have passed
+Not finished. 267 minutes have passed
+Not finished. 268 minutes have passed
+Not finished. 269 minutes have passed
+Not finished. 270 minutes have passed
+Not finished. 271 minutes have passed
+Not finished. 272 minutes have passed
+Not finished. 273 minutes have passed
+Not finished. 274 minutes have passed
+Not finished. 275 minutes have passed
+Not finished. 276 minutes have passed
+Not finished. 277 minutes have passed
+id: 0 completion: 56.25%
+Not finished. 278 minutes have passed
+id: 1 completion: 56.25%
+Not finished. 279 minutes have passed
+Not finished. 280 minutes have passed
+id: 2 completion: 56.25%
+Not finished. 281 minutes have passed
+Not finished. 282 minutes have passed
+Not finished. 283 minutes have passed
+Not finished. 284 minutes have passed
+Not finished. 285 minutes have passed
+Not finished. 286 minutes have passed
+Not finished. 287 minutes have passed
+Not finished. 288 minutes have passed
+Not finished. 289 minutes have passed
+Not finished. 290 minutes have passed
+Not finished. 291 minutes have passed
+id: 0 completion: 59.375%
+Not finished. 292 minutes have passed
+Not finished. 293 minutes have passed
+id: 1 completion: 59.375%
+Not finished. 294 minutes have passed
+Not finished. 295 minutes have passed
+id: 2 completion: 59.375%
+Not finished. 296 minutes have passed
+Not finished. 297 minutes have passed
+Not finished. 298 minutes have passed
+Not finished. 299 minutes have passed
+Not finished. 300 minutes have passed
+Not finished. 301 minutes have passed
+Not finished. 302 minutes have passed
+Not finished. 303 minutes have passed
+Not finished. 304 minutes have passed
+Not finished. 305 minutes have passed
+Not finished. 306 minutes have passed
+id: 0 completion: 62.5%
+Not finished. 307 minutes have passed
+id: 1 completion: 62.5%
+Not finished. 308 minutes have passed
+Not finished. 309 minutes have passed
+id: 2 completion: 62.5%
+Not finished. 310 minutes have passed
+Not finished. 311 minutes have passed
+Not finished. 312 minutes have passed
+Not finished. 313 minutes have passed
+Not finished. 314 minutes have passed
+Not finished. 315 minutes have passed
+Not finished. 316 minutes have passed
+Not finished. 317 minutes have passed
+Not finished. 318 minutes have passed
+Not finished. 319 minutes have passed
+Not finished. 320 minutes have passed
+id: 0 completion: 65.625%
+Not finished. 321 minutes have passed
+id: 1 completion: 65.625%
+Not finished. 322 minutes have passed
+Not finished. 323 minutes have passed
+Not finished. 324 minutes have passed
+id: 2 completion: 65.625%
+Not finished. 325 minutes have passed
+Not finished. 326 minutes have passed
+Not finished. 327 minutes have passed
+Not finished. 328 minutes have passed
+Not finished. 329 minutes have passed
+Not finished. 330 minutes have passed
+Not finished. 331 minutes have passed
+Not finished. 332 minutes have passed
+Not finished. 333 minutes have passed
+Not finished. 334 minutes have passed
+Not finished. 335 minutes have passed
+id: 0 completion: 68.75%
+Not finished. 336 minutes have passed
+id: 1 completion: 68.75%
+Not finished. 337 minutes have passed
+Not finished. 338 minutes have passed
+Not finished. 339 minutes have passed
+id: 2 completion: 68.75%
+Not finished. 340 minutes have passed
+Not finished. 341 minutes have passed
+Not finished. 342 minutes have passed
+Not finished. 343 minutes have passed
+Not finished. 344 minutes have passed
+Not finished. 345 minutes have passed
+Not finished. 346 minutes have passed
+Not finished. 347 minutes have passed
+Not finished. 348 minutes have passed
+Not finished. 349 minutes have passed
+id: 0 completion: 71.875%
+Not finished. 350 minutes have passed
+Not finished. 351 minutes have passed
+id: 1 completion: 71.875%
+Not finished. 352 minutes have passed
+Not finished. 353 minutes have passed
+id: 2 completion: 71.875%
+Not finished. 354 minutes have passed
+Not finished. 355 minutes have passed
+Not finished. 356 minutes have passed
+Not finished. 357 minutes have passed
+Not finished. 358 minutes have passed
+Not finished. 359 minutes have passed
+Not finished. 360 minutes have passed
+Not finished. 361 minutes have passed
+Not finished. 362 minutes have passed
+Not finished. 363 minutes have passed
+Not finished. 364 minutes have passed
+id: 0 completion: 75.0%
+Not finished. 365 minutes have passed
+Not finished. 366 minutes have passed
+id: 1 completion: 75.0%
+Not finished. 367 minutes have passed
+Not finished. 368 minutes have passed
+id: 2 completion: 75.0%
+Not finished. 369 minutes have passed
+Not finished. 370 minutes have passed
+Not finished. 371 minutes have passed
+Not finished. 372 minutes have passed
+Not finished. 373 minutes have passed
+Not finished. 374 minutes have passed
+Not finished. 375 minutes have passed
+Not finished. 376 minutes have passed
+Not finished. 377 minutes have passed
+Not finished. 378 minutes have passed
+id: 0 completion: 78.125%
+Not finished. 379 minutes have passed
+Not finished. 380 minutes have passed
+id: 1 completion: 78.125%
+Not finished. 381 minutes have passed
+Not finished. 382 minutes have passed
+id: 2 completion: 78.125%
+Not finished. 383 minutes have passed
+Not finished. 384 minutes have passed
+Not finished. 385 minutes have passed
+Not finished. 386 minutes have passed
+Not finished. 387 minutes have passed
+Not finished. 388 minutes have passed
+Not finished. 389 minutes have passed
+Not finished. 390 minutes have passed
+Not finished. 391 minutes have passed
+Not finished. 392 minutes have passed
+Not finished. 393 minutes have passed
+id: 0 completion: 81.25%
+Not finished. 394 minutes have passed
+Not finished. 395 minutes have passed
+id: 1 completion: 81.25%
+Not finished. 396 minutes have passed
+Not finished. 397 minutes have passed
+id: 2 completion: 81.25%
+Not finished. 398 minutes have passed
+Not finished. 399 minutes have passed
+Not finished. 400 minutes have passed
+Not finished. 401 minutes have passed
+Not finished. 402 minutes have passed
+Not finished. 403 minutes have passed
+Not finished. 404 minutes have passed
+Not finished. 405 minutes have passed
+Not finished. 406 minutes have passed
+Not finished. 407 minutes have passed
+id: 0 completion: 84.375%
+Not finished. 408 minutes have passed
+Not finished. 409 minutes have passed
+id: 1 completion: 84.375%
+Not finished. 410 minutes have passed
+Not finished. 411 minutes have passed
+Not finished. 412 minutes have passed
+id: 2 completion: 84.375%
+Not finished. 413 minutes have passed
+Not finished. 414 minutes have passed
+Not finished. 415 minutes have passed
+Not finished. 416 minutes have passed
+Not finished. 417 minutes have passed
+Not finished. 418 minutes have passed
+Not finished. 419 minutes have passed
+Not finished. 420 minutes have passed
+Not finished. 421 minutes have passed
+Not finished. 422 minutes have passed
+id: 0 completion: 87.5%
+Not finished. 423 minutes have passed
+Not finished. 424 minutes have passed
+id: 1 completion: 87.5%
+Not finished. 425 minutes have passed
+Not finished. 426 minutes have passed
+id: 2 completion: 87.5%
+Not finished. 427 minutes have passed
+Not finished. 428 minutes have passed
+Not finished. 429 minutes have passed
+Not finished. 430 minutes have passed
+Not finished. 431 minutes have passed
+Not finished. 432 minutes have passed
+Not finished. 433 minutes have passed
+Not finished. 434 minutes have passed
+Not finished. 435 minutes have passed
+Not finished. 436 minutes have passed
+id: 0 completion: 90.625%
+Not finished. 437 minutes have passed
+Not finished. 438 minutes have passed
+id: 1 completion: 90.625%
+Not finished. 439 minutes have passed
+Not finished. 440 minutes have passed
+Not finished. 441 minutes have passed
+id: 2 completion: 90.625%
+Not finished. 442 minutes have passed
+Not finished. 443 minutes have passed
+Not finished. 444 minutes have passed
+Not finished. 445 minutes have passed
+Not finished. 446 minutes have passed
+Not finished. 447 minutes have passed
+Not finished. 448 minutes have passed
+Not finished. 449 minutes have passed
+Not finished. 450 minutes have passed
+id: 0 completion: 93.75%
+Not finished. 451 minutes have passed
+Not finished. 452 minutes have passed
+Not finished. 453 minutes have passed
+id: 1 completion: 93.75%
+Not finished. 454 minutes have passed
+Not finished. 455 minutes have passed
+id: 2 completion: 93.75%
+Not finished. 456 minutes have passed
+Not finished. 457 minutes have passed
+Not finished. 458 minutes have passed
+Not finished. 459 minutes have passed
+Not finished. 460 minutes have passed
+Not finished. 461 minutes have passed
+Not finished. 462 minutes have passed
+Not finished. 463 minutes have passed
+Not finished. 464 minutes have passed
+Not finished. 465 minutes have passed
+id: 0 completion: 96.875%
+FINISHED id: 0
+Not finished. 466 minutes have passed
+Not finished. 467 minutes have passed
+id: 1 completion: 96.875%
+FINISHED id: 1
+Not finished. 468 minutes have passed
+Not finished. 469 minutes have passed
+id: 2 completion: 96.875%
+FINISHED id: 2
+
+[Attack ( delta : {key = 8 words : [8]} nabla : {key = 10 words : [0]})
+time complexity : C_attack ~ 2^{126.82424807563194}, Attack ( delta : {key = 8 words : [13]} nabla : {key = 10 words : [0]})
+time complexity : C_attack ~ 2^{126.82424807563194}, Attack ( delta : {key = 8 words : [7]} nabla : {key = 10 words : [4]})
+time complexity : C_attack ~ 2^{126.82424807563194}, Attack ( delta : {key = 8 words : [13]} nabla : {key = 10 words : [4]})
+time complexity : C_attack ~ 2^{126.82424807563194}, Attack ( delta : {key = 8 words : [4]} nabla : {key = 10 words : [8]})
+time complexity : C_attack ~ 2^{126.82424807563194}, Attack ( delta : {key = 8 words : [9]} nabla : {key = 10 words : [0]})
+time complexity : C_attack ~ 2^{126.84045897823154}, Attack ( delta : {key = 8 words : [8]} nabla : {key = 10 words : [12]})
+time complexity : C_attack ~ 2^{126.84045897823154}, Attack ( delta : {key = 8 words : [3]} nabla : {key = 10 words : [0]})
+time complexity : C_attack ~ 2^{126.8564097491684}, Attack ( delta : {key = 8 words : [3]} nabla : {key = 10 words : [4]})
+time complexity : C_attack ~ 2^{126.8564097491684}, Attack ( delta : {key = 8 words : [12]} nabla : {key = 9 words : [6]})
+time complexity : C_attack ~ 2^{126.87210862183476}, Attack ( delta : {key = 8 words : [4]} nabla : {key = 9 words : [14]})
+time complexity : C_attack ~ 2^{126.87210862183476}, Attack ( delta : {key = 8 words : [1]} nabla : {key = 9 words : [6]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [7]} nabla : {key = 9 words : [9]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [5]} nabla : {key = 9 words : [14]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [9]} nabla : {key = 9 words : [14]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [14]} nabla : {key = 10 words : [0]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [14]} nabla : {key = 10 words : [4]})
+time complexity : C_attack ~ 2^{126.88756344438292}, Attack ( delta : {key = 8 words : [15]} nabla : {key = 9 words : [2]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [4]} nabla : {key = 9 words : [13]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [9]} nabla : {key = 10 words : [1]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [15]} nabla : {key = 10 words : [1]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [2]} nabla : {key = 10 words : [4]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [0]} nabla : {key = 10 words : [9]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [5]} nabla : {key = 10 words : [9]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [4]} nabla : {key = 10 words : [13]})
+time complexity : C_attack ~ 2^{126.90278170340804}, Attack ( delta : {key = 8 words : [15]} nabla : {key = 9 words : [1]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [9]} nabla : {key = 9 words : [13]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [3]} nabla : {key = 10 words : [5]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [12]} nabla : {key = 10 words : [6]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [1]} nabla : {key = 10 words : [10]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [9]} nabla : {key = 10 words : [13]})
+time complexity : C_attack ~ 2^{126.91777054583748}, Attack ( delta : {key = 8 words : [10]} nabla : {key = 9 words : [14]})
+time complexity : C_attack ~ 2^{126.93253679918749}, Attack ( delta : {key = 8 words : [10]} nabla : {key = 9 words : [2]})
+time complexity : C_attack ~ 2^{126.94708699033116}, Attack ( delta : {key = 8 words : [10]} nabla : {key = 10 words : [1]})
+time complexity : C_attack ~ 2^{126.94708699033116}, Attack ( delta : {key = 8 words : [14]} nabla : {key = 10 words : [1]})
+time complexity : C_attack ~ 2^{126.94708699033116}, Attack ( delta : {key = 8 words : [14]} nabla : {key = 10 words : [5]})
+time complexity : C_attack ~ 2^{126.94708699033116}, Attack ( delta : {key = 8 words : [10]} nabla : {key = 9 words : [1]})
+time complexity : C_attack ~ 2^{126.96142736290717}, Attack ( delta : {key = 8 words : [2]} nabla : {key = 9 words : [9]})
+time complexity : C_attack ~ 2^{126.96142736290717}, Attack ( delta : {key = 8 words : [6]} nabla : {key = 10 words : [10]})
+time complexity : C_attack ~ 2^{126.96142736290717}, Attack ( delta : {key = 8 words : [7]} nabla : {key = 10 words : [11]})
+time complexity : C_attack ~ 2^{126.9755638934858}, Attack ( delta : {key = 8 words : [8]} nabla : {key = 10 words : [3]})
+time complexity : C_attack ~ 2^{126.9895023065971}, Attack ( delta : {key = 8 words : [12]} nabla : {key = 10 words : [7]})
+time complexity : C_attack ~ 2^{126.9895023065971}, Attack ( delta : {key = 8 words : [13]} nabla : {key = 10 words : [7]})
+time complexity : C_attack ~ 2^{126.9895023065971}, Attack ( delta : {key = 8 words : [11]} nabla : {key = 10 words : [15]})
+time complexity : C_attack ~ 2^{126.9895023065971}, Attack ( delta : {key = 8 words : [2]} nabla : {key = 10 words : [11]})
+time complexity : C_attack ~ 2^{127.0433812105509}, Attack ( delta : {key = 8 words : [6]} nabla : {key = 10 words : [15]})
+time complexity : C_attack ~ 2^{127.0433812105509}, Attack ( delta : {key = 8 words : [2]} nabla : {key = 10 words : [7]})
+time complexity : C_attack ~ 2^{127.05640701034999}]
+CONSTRUÍDO COM SUCESSO (tempo total: 473 minutos 12 segundos)
