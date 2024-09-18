@@ -1,0 +1,133 @@
+
+\documentclass{article}
+\usepackage[paperheight=11.5in,paperwidth=5in,top=1in,bottom=1in,right=1in,left=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows}
+
+\newcommand{\blue}{\cellcolor[HTML]{3166FF}}
+\newcommand{\green}{\cellcolor[HTML]{32CB00}}
+\newcommand{\salmon}{\cellcolor[HTML]{FD6864}}
+\newcommand{\darkgreen}{\cellcolor[HTML]{646809}}
+\newcommand{\grey}{\cellcolor[HTML]{9B9B9B}}
+\newcommand{\lightgrey}{\cellcolor[HTML]{D7D7D7}}
+
+\begin{document}
+\pagestyle{empty}
+% Define block styles
+\tikzstyle{line} = [draw, -latex']
+   
+\centering
+\begin{tikzpicture}[node distance = 1.7cm, auto]
+% Draw States
+	\node(state0)[]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState0)[right of=state0,xshift=0.4cm]{$\#0$};
+		\node(xor0)[below of=state0]{$\oplus$};
+	\node(state1)[below of=xor0]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState1)[right of=state1,xshift=0.4cm]{$\#1$};
+	\node(state4)[below of=state1, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState4)[right of=state4,xshift=0.4cm]{$\#4$};
+		\node(xor1)[below of=state4]{$\oplus$};
+	\node(state5)[below of=xor1]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\salmon\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState5)[right of=state5,xshift=0.4cm]{$\#5$};
+	\node(state8)[below of=state5, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\salmon\\\hline
+		\salmon&&&\\\hline
+		&\salmon&&\\\hline
+		&&\salmon&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState8)[right of=state8,xshift=0.4cm]{$\#8$};
+		\node(xor2)[below of=state8]{$\oplus$};
+	\node(state9)[below of=xor2]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\salmon\\\hline
+		\salmon&&&\\\hline
+		&\salmon&&\\\hline
+		&&\salmon&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState9)[right of=state9,xshift=0.4cm]{$\#9$};
+	\node(state10)[below of=state9, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\salmon\\\hline
+		\salmon&&&\\\hline
+		&\salmon&&\\\hline
+		&&\salmon&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState10)[right of=state10,xshift=0.4cm]{$\#10$};
+    % Draw keys
+	\node(K0)[left of=xor0, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK0)[left of=K0,xshift=-0.5cm]{$\$0$};
+	\node(K1)[left of=xor1, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\salmon\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK1)[left of=K1,xshift=-0.5cm]{$\$1$};
+	\node(K2)[left of=xor2, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK2)[left of=K2,xshift=-0.5cm]{$\$2$};
+    % Draw edges
+	\path [line] (state0) -- (xor0);
+	\path [line] (xor0) -- (state1);
+	\path [line] (state1) --  node{\begin{tabular}{l}
+                                        SC \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state4);
+	\path [line] (state4) -- (xor1);
+	\path [line] (xor1) -- (state5);
+	\path [line] (state5) --  node{\begin{tabular}{l}
+                                        SC \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state8);
+	\path [line] (state8) -- (xor2);
+	\path [line] (xor2) -- (state9);
+	\path [line] (state9) --  node{\begin{tabular}{l}
+                                        SC 
+                                    \end{tabular}} (state10);
+ 
+	\path [line] (K0) -- (xor0);
+	\path [line] (K1) -- (xor1);
+	\path [line] (K2) -- (xor2);
+\end{tikzpicture}
+\end{document}
+BUILD SUCCESSFUL (total time: 3 seconds)

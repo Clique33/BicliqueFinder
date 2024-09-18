@@ -1,0 +1,253 @@
+
+\documentclass{article}
+\usepackage[paperheight=21in,paperwidth=5in,top=1in,bottom=1in,right=1in,left=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows}
+
+\newcommand{\blue}{\cellcolor[HTML]{3166FF}}
+\newcommand{\green}{\cellcolor[HTML]{32CB00}}
+\newcommand{\salmon}{\cellcolor[HTML]{FD6864}}
+\newcommand{\darkgreen}{\cellcolor[HTML]{646809}}
+\newcommand{\grey}{\cellcolor[HTML]{9B9B9B}}
+
+\begin{document}
+\pagestyle{empty}
+% Define block styles
+\tikzstyle{line} = [draw, -latex']
+   
+\centering
+\begin{tikzpicture}[node distance = 1.7cm, auto]
+% Draw States
+	\node(state0)[]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState0)[right of=state0,xshift=0.4cm]{$\#0$};
+		\node(xor0)[below of=state0]{$\oplus$};
+	\node(state1)[below of=xor0]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState1)[right of=state1,xshift=0.4cm]{$\#1$};
+	\node(state4)[below of=state1, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState4)[right of=state4,xshift=0.4cm]{$\#4$};
+		\node(xor1)[below of=state4]{$\oplus$};
+	\node(state5)[below of=xor1]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		\salmon&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState5)[right of=state5,xshift=0.4cm]{$\#5$};
+	\node(state8)[below of=state5, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&&&\\\hline
+		&\salmon&&\\\hline
+		&&\salmon&\\\hline
+		&&&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState8)[right of=state8,xshift=0.4cm]{$\#8$};
+		\node(xor2)[below of=state8]{$\oplus$};
+	\node(state9)[below of=xor2]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&&&\\\hline
+		&\salmon&&\\\hline
+		&&\salmon&\\\hline
+		&&&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState9)[right of=state9,xshift=0.4cm]{$\#9$};
+	\node(state12)[below of=state9, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState12)[right of=state12,xshift=0.4cm]{$\#12$};
+		\node(xor3)[below of=state12]{$\oplus$};
+	\node(state13)[below of=xor3]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState13)[right of=state13,xshift=0.4cm]{$\#13$};
+	\node(state16)[below of=state13, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState16)[right of=state16,xshift=0.4cm]{$\#16$};
+		\node(xor4)[below of=state16]{$\oplus$};
+	\node(state17)[below of=xor4]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState17)[right of=state17,xshift=0.4cm]{$\#17$};
+	\node(state20)[below of=state17, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState20)[right of=state20,xshift=0.4cm]{$\#20$};
+		\node(xor5)[below of=state20]{$\oplus$};
+	\node(state21)[below of=xor5]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState21)[right of=state21,xshift=0.4cm]{$\#21$};
+	\node(state24)[below of=state21, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState24)[right of=state24,xshift=0.4cm]{$\#24$};
+		\node(xor6)[below of=state24]{$\oplus$};
+	\node(state25)[below of=xor6]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\salmon&\salmon&\salmon&\salmon\\\hline
+		\end{tabular}};
+ 		\node(numberOfState25)[right of=state25,xshift=0.4cm]{$\#25$};
+    % Draw keys
+	\node(K0)[left of=xor0, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK0)[left of=K0,xshift=-0.5cm]{$\$0$};
+	\node(K1)[left of=xor1, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		\salmon&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK1)[left of=K1,xshift=-0.5cm]{$\$1$};
+	\node(K2)[left of=xor2, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK2)[left of=K2,xshift=-0.5cm]{$\$2$};
+	\node(K3)[left of=xor3, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&\salmon&\salmon\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK3)[left of=K3,xshift=-0.5cm]{$\$3$};
+	\node(K4)[left of=xor4, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK4)[left of=K4,xshift=-0.5cm]{$\$4$};
+	\node(K5)[left of=xor5, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&\salmon&\salmon&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK5)[left of=K5,xshift=-0.5cm]{$\$5$};
+	\node(K6)[left of=xor6, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK6)[left of=K6,xshift=-0.5cm]{$\$6$};
+    % Draw edges
+	\path [line] (state0) -- (xor0);
+	\path [line] (xor0) -- (state1);
+	\path [line] (state1) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state4);
+	\path [line] (state4) -- (xor1);
+	\path [line] (xor1) -- (state5);
+	\path [line] (state5) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state8);
+	\path [line] (state8) -- (xor2);
+	\path [line] (xor2) -- (state9);
+	\path [line] (state9) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state12);
+	\path [line] (state12) -- (xor3);
+	\path [line] (xor3) -- (state13);
+	\path [line] (state13) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state16);
+	\path [line] (state16) -- (xor4);
+	\path [line] (xor4) -- (state17);
+	\path [line] (state17) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state20);
+	\path [line] (state20) -- (xor5);
+	\path [line] (xor5) -- (state21);
+	\path [line] (state21) --  node{\begin{tabular}{l}
+                                        SB \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state24);
+	\path [line] (state24) -- (xor6);
+	\path [line] (xor6) -- (state25);
+ 
+	\path [line] (K0) -- (xor0);
+	\path [line] (K1) -- (xor1);
+	\path [line] (K2) -- (xor2);
+	\path [line] (K3) -- (xor3);
+	\path [line] (K4) -- (xor4);
+	\path [line] (K5) -- (xor5);
+	\path [line] (K6) -- (xor6);
+\end{tikzpicture}
+\end{document}
+BUILD SUCCESSFUL (total time: 3 seconds)

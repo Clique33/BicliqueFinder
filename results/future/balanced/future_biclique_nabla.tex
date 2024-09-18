@@ -1,0 +1,156 @@
+
+\documentclass{article}
+\usepackage[paperheight=14in,paperwidth=5in,top=1in,bottom=1in,right=1in,left=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows}
+
+\newcommand{\blue}{\cellcolor[HTML]{3166FF}}
+\newcommand{\green}{\cellcolor[HTML]{32CB00}}
+\newcommand{\darkgreen}{\cellcolor[HTML]{646809}}
+\newcommand{\grey}{\cellcolor[HTML]{9B9B9B}}
+
+\begin{document}
+\pagestyle{empty}
+% Define block styles
+\tikzstyle{line} = [draw, -latex']
+   
+\centering
+\begin{tikzpicture}[node distance = 1.7cm, auto]
+	\node(state25){\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState25)[right of=state25,xshift=0.4cm]{$\#25$};
+	\node(state28)[below of=state25, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState28)[right of=state28,xshift=0.4cm]{$\#28$};
+		\node(xor7)[below of=state28]{$\oplus$};
+	\node(state29)[below of=xor7]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState29)[right of=state29,xshift=0.4cm]{$\#29$};
+	\node(state32)[below of=state29, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState32)[right of=state32,xshift=0.4cm]{$\#32$};
+		\node(xor8)[below of=state32]{$\oplus$};
+	\node(state33)[below of=xor8]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&\blue&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState33)[right of=state33,xshift=0.4cm]{$\#33$};
+	\node(state36)[below of=state33, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&\blue&\\\hline
+		&&&\blue\\\hline
+		\blue&&&\\\hline
+		&\blue&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState36)[right of=state36,xshift=0.4cm]{$\#36$};
+		\node(xor9)[below of=state36]{$\oplus$};
+	\node(state37)[below of=xor9]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&\blue&\\\hline
+		&&&\blue\\\hline
+		\blue&&&\\\hline
+		&\blue&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState37)[right of=state37,xshift=0.4cm]{$\#37$};
+	\node(state39)[below of=state37, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&\blue&\\\hline
+		\blue&&&\\\hline
+		&&\blue&\\\hline
+		\blue&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState39)[right of=state39,xshift=0.4cm]{$\#39$};
+		\node(xor10)[below of=state39]{$\oplus$};
+	\node(state40)[below of=xor10]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&\blue&\\\hline
+		\blue&&&\\\hline
+		&&\blue&\\\hline
+		\blue&\blue&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState40)[right of=state40,xshift=0.4cm]{$\#40$};
+    % Draw keys
+	\node(K7)[left of=xor7, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK7)[left of=K7,xshift=-0.5cm]{$\$7$};
+	\node(K8)[left of=xor8, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&\blue&\\\hline
+		\end{tabular}};
+		\node(numberK8)[left of=K8,xshift=-0.5cm]{$\$8$};
+	\node(K9)[left of=xor9, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK9)[left of=K9,xshift=-0.5cm]{$\$9$};
+	\node(K10)[left of=xor10, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\blue&\blue&&\\\hline
+		\end{tabular}};
+		\node(numberK10)[left of=K10,xshift=-0.5cm]{$\$10$};
+    % Draw edges
+	\path [line] (state25) --  node{\begin{tabular}{l}
+                                        SC\\MC\\SR
+                                    \end{tabular}} (state28);
+	\path [line] (state28) -- (xor7);
+	\path [line] (xor7) -- (state29);
+	\path [line] (state29) --  node{\begin{tabular}{l}
+                                        SC\\MC\\SR
+                                    \end{tabular}} (state32);
+	\path [line] (state32) -- (xor8);
+	\path [line] (xor8) -- (state33);
+	\path [line] (state33) --  node{\begin{tabular}{l}
+                                        SC\\MC\\SR 
+                                    \end{tabular}} (state36);
+	\path [line] (state36) -- (xor9);
+	\path [line] (xor9) -- (state37);
+	\path [line] (state37) --  node{\begin{tabular}{l}
+                                        SC\\SR
+                                    \end{tabular}} (state39);
+	\path [line] (state39) -- (xor10);
+	\path [line] (xor10) -- (state40);
+	\path [line] (K7) -- (xor7);
+	\path [line] (K8) -- (xor8);
+	\path [line] (K9) -- (xor9);
+	\path [line] (K10) -- (xor10);
+\end{tikzpicture}
+\end{document}
+BUILD SUCCESSFUL (total time: 3 seconds)

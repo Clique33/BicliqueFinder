@@ -1,0 +1,113 @@
+
+\documentclass{article}
+\usepackage[paperheight=10in,paperwidth=5in,top=1in,bottom=1in,right=1in,left=1in]{geometry}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows}
+
+\newcommand{\blue}{\cellcolor[HTML]{3166FF}}
+\newcommand{\green}{\cellcolor[HTML]{32CB00}}
+\newcommand{\salmon}{\cellcolor[HTML]{FD6864}}
+\newcommand{\darkgreen}{\cellcolor[HTML]{646809}}
+\newcommand{\grey}{\cellcolor[HTML]{9B9B9B}}
+
+\begin{document}
+\pagestyle{empty}
+% Define block styles
+\tikzstyle{line} = [draw, -latex']
+   
+\centering
+\begin{tikzpicture}[node distance = 1.7cm, auto]
+% Draw States
+	\node(state21)[]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\grey\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState21)[right of=state21,xshift=0.4cm]{$\#21$};
+	\node(state24)[below of=state21, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\grey\\\hline
+		\grey&&&\\\hline
+		&\grey&&\\\hline
+		&&\grey&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState24)[right of=state24,xshift=0.4cm]{$\#24$};
+		\node(xor6)[below of=state24]{$\oplus$};
+	\node(state25)[below of=xor6]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\grey\\\hline
+		\grey&&&\\\hline
+		&\grey&&\\\hline
+		&&\grey&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState25)[right of=state25,xshift=0.4cm]{$\#25$};
+	\node(state28)[below of=state25, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\end{tabular}};
+ 		\node(numberOfState28)[right of=state28,xshift=0.4cm]{$\#28$};
+		\node(xor7)[below of=state28]{$\oplus$};
+	\node(state29)[below of=xor7]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\grey&\grey&\grey&\grey\\\hline
+		\end{tabular}};
+ 		\node(numberOfState29)[right of=state29,xshift=0.4cm]{$\#29$};
+	\node(state32)[below of=state29, yshift=-2cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+ 		\node(numberOfState32)[right of=state32,xshift=0.4cm]{$\#32$};
+    % Draw keys
+	\node(K6)[left of=xor6, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK6)[left of=K6,xshift=-0.5cm]{$\$6$};
+	\node(K7)[left of=xor7, xshift=-1.0cm]{\begin{tabular}{|l|l|l|l|}
+		\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		&&&\\\hline
+		\end{tabular}};
+		\node(numberK7)[left of=K7,xshift=-0.5cm]{$\$7$};
+    % Draw edges
+	\path [line] (state21) --  node{\begin{tabular}{l}
+                                        SC \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state24);
+	\path [line] (state24) -- (xor6);
+	\path [line] (xor6) -- (state25);
+	\path [line] (state25) --  node{\begin{tabular}{l}
+                                        SC \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state28);
+	\path [line] (state28) -- (xor7);
+	\path [line] (xor7) -- (state29);
+	\path [line] (state29) --  node{\begin{tabular}{l}
+                                        SC \\
+                                        MC \\ 
+                                        SR
+                                    \end{tabular}} (state32);
+	\path [line] (K6) -- (xor6);
+	\path [line] (K7) -- (xor7);
+\end{tikzpicture}
+\end{document}
+BUILD SUCCESSFUL (total time: 2 seconds)
