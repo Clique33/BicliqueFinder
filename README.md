@@ -5,7 +5,7 @@ Neste repositório se encontra a versão mais atual da ferramenta utilizada no a
 
 [_Revisiting the Biclique Attack on the AES_](https://sol.sbc.org.br/index.php/sbseg/article/view/27204) (Ataques sobre a cifra Rijndael-128)
 
-_The Best Biclique Cryptanalysis of the Lightweight Cipher FUTURE_ (Aceito em 08/08/2024. Ainda não publicado.)
+[The Best Biclique Cryptanalysis of the Lightweight Cipher FUTURE](https://sol.sbc.org.br/index.php/sbseg/article/view/30051) (Ataques sobre a cifra FUTURE)
 
 ## Introdução
 
